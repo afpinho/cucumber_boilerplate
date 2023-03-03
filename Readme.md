@@ -1,4 +1,4 @@
-#Cucumber Sample
+# Cucumber Sample
 
 This project has as objective to help QA Engineers to automate these Acceptance Tests using Cucumber, Capybara, Selenium. Follow possible configurations:
 
